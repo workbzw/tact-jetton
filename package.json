@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/workbzw/tact-jetton",
-  "author": "TeeJoo <workbzw@outlook.com>",
+  "author": "TeeJoo <workbzw@gmail.com>",
   "license": "MIT",
   "scripts": {
     "build": "tact --config tact.config.json",
