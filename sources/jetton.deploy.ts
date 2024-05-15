@@ -29,10 +29,6 @@ import 'dotenv/config';
         endpoint: "https://sandbox-v4.tonhubapi.com"
     })
 
-    // Insert your test wallet's 24 words, make sure you have some test Toncoins on its balance. Every deployment spent 0.5 test toncoin.
-    // let mnemonics = "multiply voice predict admit hockey fringe flat bike napkin child quote piano year cloud bundle lunch curtain flee crouch injury accuse leisure tray danger";
-    // let mnemonics = "occur current rookie small giraffe trick faith potato hard excess suit simple girl habit blossom honey fame aunt faculty toast chronic soup story velvet";
-    // let mnemonics = (process.env.MNEMONICS!).toString();
     let mnemonics = (process.env.MNEMONICS!);
     // read more about wallet apps https://ton.org/docs/participate/wallets/apps#tonhub-test-environment
 
