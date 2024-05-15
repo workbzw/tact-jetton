@@ -2,8 +2,8 @@
   "name": "tact-jetton",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/Reveloper/tact-jetton",
-  "author": "Alex Golev <flexorise@gmail.com>",
+  "repository": "https://github.com/workbzw/tact-jetton",
+  "author": "TeeJoo <workbzw@outlook.com>",
   "license": "MIT",
   "scripts": {
     "build": "tact --config tact.config.json",
